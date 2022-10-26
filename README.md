@@ -1,1 +1,2 @@
-# credit-card-default-analysis
+# Credit Card Default Analysis
+Authors: Andres Zepeda Perez, Angelique Clara Hanzell
